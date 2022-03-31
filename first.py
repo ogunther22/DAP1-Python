@@ -10,3 +10,5 @@ print('Hello World!')
 x = 10
 
 y = 2
+
+z = 5
