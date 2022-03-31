@@ -8,3 +8,5 @@ This is a temporary script file.
 print('Hello World!')
 
 x = 10
+
+y = 2
